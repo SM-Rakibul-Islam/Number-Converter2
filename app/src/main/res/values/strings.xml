@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Converter</string>
+    <string name="result">Result</string>
+    <string name="converter">Converter</string>
+    <string name="input_number">Enter number here..</string>
+    <string name="convert">Convert</string>
+    <string name="B2D">Binary to Decimal</string>
+    <string name="D2B">Decimal to Binary</string>
+</resources>
